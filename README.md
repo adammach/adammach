@@ -1,7 +1,4 @@
-👋 Hi, this is simple project to save locally info about github repos. Many things is missing but ... who cares ;)
-
-Run with command:
-flutter run
+👋 Nothing to see here
 
 
 <!---
